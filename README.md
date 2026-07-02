@@ -112,7 +112,7 @@ Exit the REPL:
 > **Screenshot 2:** Take a screenshot showing all REPL interactions above,
 > including the f-string output.
 >
-> ![s2](assets/s2png)
+> ![s2](assets/s2.png)
 
 ### Questions for Section 1
 
@@ -643,7 +643,7 @@ uv run python3 abfrage.py
 
 > **Screenshot 6:** Take a screenshot showing the query result table.
 >
-> `[insert screenshot]`
+> ![s6](s6.png)
 
 ### Step 4 – Commit
 
