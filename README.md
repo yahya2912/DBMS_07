@@ -112,7 +112,7 @@ Exit the REPL:
 > **Screenshot 2:** Take a screenshot showing all REPL interactions above,
 > including the f-string output.
 >
-> ![s2](./assets/s2png)
+> ![s2](assets/s2png)
 
 ### Questions for Section 1
 
@@ -239,7 +239,7 @@ python3 berechnung.py
 > **Screenshot 3:** Take a screenshot showing the terminal output of
 > `python3 berechnung.py`.
 >
-> ![s3](./assets/s3.png)
+> ![s3](assets/s3.png)
 
 ### Step 4 – Commit
 
