@@ -643,7 +643,7 @@ uv run python3 abfrage.py
 
 > **Screenshot 6:** Take a screenshot showing the query result table.
 >
-> ![s6](s6.png)
+> ![s6](assets/s6.png)
 
 ### Step 4 – Commit
 
